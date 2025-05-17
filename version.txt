@@ -1,2 +1,2 @@
-MODE=Offline
+MODE=Online
 VERSION=1.2.0
