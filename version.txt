@@ -1,1 +1,2 @@
-1.1.0
+MODE=Online
+VERSION=1.1.0
